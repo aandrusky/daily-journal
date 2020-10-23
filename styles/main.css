@@ -1,0 +1,24 @@
+fieldset {
+    background-color: #eeeeee
+}
+
+legend {
+    color: black;
+    background-color: rgb(181, 197, 194);
+    color: white;
+    padding: 5px 10px;
+    
+  }
+  
+input {
+    margin: 5px;
+  }
+
+  input, label {
+    display: flex;
+    flex-direction: column;
+}
+.legendText {
+    color: black;
+    
+}
